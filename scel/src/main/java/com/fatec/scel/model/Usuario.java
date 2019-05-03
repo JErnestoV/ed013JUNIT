@@ -10,6 +10,7 @@ public class Usuario {
 
 	public void setRa(String ra) {
 		this.ra = ra;
+	
 	}
 
 	public String getNome() {
